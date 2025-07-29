@@ -35,7 +35,7 @@ Die einfachste Möglichkeit ist die Ausführung in **Google Colab**:
 ### 4. Notebook starten
   jupyter notebook RL_taxi.ipynb
 
-##📊 Features
+## 📊 Features
 Tabellarisches Q-Learning (Off-Policy)
 
 Tabellarisches SARSA (On-Policy)
@@ -49,5 +49,5 @@ Visuelle Beispiel-Episoden (GIF-Animationen)
 Vergleich der Agentenleistung
 
 
-##🔍 Hinweis
+## 🔍 Hinweis
 Das Projekt wurde im Rahmen einer Reinforcement-Learning-Lehrveranstaltung umgesetzt und ist besonders auf einfache Reproduzierbarkeit in Colab ausgelegt.
