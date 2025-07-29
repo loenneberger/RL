@@ -17,29 +17,37 @@ Die einfachste Möglichkeit ist die Ausführung in **Google Colab**:
 [📂 Notebook jetzt in Colab öffnen](https://colab.research.google.com/github/loenneberger/RL/blob/main/RL_taxi.ipynb)
 
 
-### Alternativ: Lokal ausführen
+## Alternativ: Lokal ausführen
 
-# 1. Repository klonen
+### 1. Repository klonen
   git clone https://github.com/loenneberger/RL.git
+  
   cd RL
 
-# 2. (Optional) Virtuelle Umgebung erstellen
+### 2. (Optional) Virtuelle Umgebung erstellen
   python -m venv venv
+  
   source venv/bin/activate  # Windows: venv\Scripts\activate
 
-# 3. Abhängigkeiten installieren
+### 3. Abhängigkeiten installieren
   pip install -r requirements.txt
 
-# 4. Notebook starten
+### 4. Notebook starten
   jupyter notebook RL_taxi.ipynb
 
-📊 Features
+##📊 Features
 Tabellarisches Q-Learning (Off-Policy)
+
 Tabellarisches SARSA (On-Policy)
+
 Epsilon-Greedy Exploration mit Decay
+
 Lernkurven mit Moving Average
+
 Visuelle Beispiel-Episoden (GIF-Animationen)
+
 Vergleich der Agentenleistung
 
-🔍 Hinweis
+
+##🔍 Hinweis
 Das Projekt wurde im Rahmen einer Reinforcement-Learning-Lehrveranstaltung umgesetzt und ist besonders auf einfache Reproduzierbarkeit in Colab ausgelegt.
