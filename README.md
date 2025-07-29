@@ -51,3 +51,7 @@ Vergleich der Agentenleistung
 
 ## 🔍 Hinweis
 Das Projekt wurde im Rahmen einer Reinforcement-Learning-Lehrveranstaltung umgesetzt und ist besonders auf einfache Reproduzierbarkeit in Colab ausgelegt.
+
+Teile dieses Codes wurden mit Unterstützung von ChatGPT (OpenAI) generiert.
+Die finalen Implementierungen wurden überprüft, getestet und ggf. angepasst.
+
